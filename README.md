@@ -1,1 +1,0 @@
-# huquqiy-ai-backend
